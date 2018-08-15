@@ -1,12 +1,9 @@
-# Data Science Portfolio
-Repository containing portfolio of data science projects completed by me.Most of the projects presented in the form of iPython Notebooks.
-
-_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+# Natural language processing Portfolio
 
 
 - ### Contents
 
-	- [Natural language processing](https://github.com/datA2Z/All-about-data-science-and-AI/tree/master/Natural%20language%20processing): Natural language processing, often abbreviated as NLP, refers to the ability of a computer to understand human speech as it is spoken. NLP is a key component of artificial intelligence (AI) and relies on machine learning, a specific type of AI that analyzes and makes use of patterns in data to improve a program’s understanding of speech or text.
+	- [SMS Spam/Ham classifier using Naive Bayes algorithm](https://github.com/datA2Z/All-about-data-science-and-AI/blob/master/Natural%20language%20processing/Classifier%20using%20Naive%20Bayes%20algorithm.ipynb): Short Message Service is one of the popular and  services and most used service in mobile network. It has high response rate and having good confidentiality with trusted and personal service. Due to that unwanted SMS known as spam SMS will arise which will generate different problem to mobile user. To identify such spam message is one of the important challenges in internet and wireless network. We are using Naive Bayes classifiers, a family of classifiers that are based on the popular Bayes’ probability theorem, are known for creating simple yet well performing models.[view](https://nbviewer.jupyter.org/github/datA2Z/All-about-data-science-and-AI/blob/master/Natural%20language%20processing/Classifier%20using%20Naive%20Bayes%20algorithm.ipynb)
 
 	- [Artificial Intelligence](https://github.com/datA2Z/All-about-data-science-and-AI/tree/master/Artificial%20intelligence): The study and implementation of techniques and methods for designing computer systems to perform functions normally associated with human intelligence, such as understanding language, learning, reasoning, problem solving, etc.
 
