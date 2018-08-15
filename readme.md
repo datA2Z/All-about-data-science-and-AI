@@ -12,4 +12,4 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 
 
-If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at abc@gmail.com. 
+If you liked work we had done and want to have a conversation with me about the portfolio, work opportunities, or collaboration, Kindly share your details at up.rupesh@gmail.com
